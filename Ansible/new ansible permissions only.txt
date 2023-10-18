@@ -1,0 +1,15 @@
+ContentLibrary.CheckInTemplate
+ContentLibrary.DownloadSession
+ContentLibrary.GetConfiguration
+ContentLibrary.ReadStorage
+ContentLibrary.SyncLibrary
+ContentLibrary.UpdateLibrary
+ContentLibrary.UpdateSession
+InventoryService.Tagging.ObjectAttachable
+Namespaces.ListAccess
+VirtualMachine.GuestOperations.Execute
+VirtualMachine.GuestOperations.Modify
+VirtualMachine.GuestOperations.Query
+VirtualMachine.GuestOperations.QueryAliases
+VirtualMachine.Interact.ToolsInstall
+VirtualMachine.Provisioning.Clone
